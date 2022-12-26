@@ -1,15 +1,15 @@
 # App-Escritorio-Advogados
 
- #  Projeto de controle de escritório
+#  Projeto de controle de escritório
 
-#   Como avaliação nas disciplinas 
+Como avaliação nas disciplinas 
 
-#   Banco de Dados Aplicação e Linguagem de Programação Visual (3º ADS)
+Banco de Dados Aplicação e Linguagem de Programação Visual (3º ADS)
 
-#   Ministrada pelo professor Leandro Ferrarezi
+Ministrada pelo professor Leandro Ferrarezi
 
 
-#   Desenvolvido por Fabio e Marcos
+# Desenvolvido por Fabio e Marcos
 
 
 ## Tarefas
